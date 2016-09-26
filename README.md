@@ -6,6 +6,7 @@
      \___\_\\__,_|\___|_| |_|\__|_|_| |_|   \/  \/ \___|_.__/|___/\___/ \___|_|\_\___|\__|  \_____|_| |_|\__,_|\__|
 
 Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
+[![Build Status](https://travis-ci.org/veeseekay/quentin-v1.svg?branch=master)](https://travis-ci.org/veeseekay/quentin-v1)
 
 ## Features
 - Spring Boot
