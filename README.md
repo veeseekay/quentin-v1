@@ -15,7 +15,7 @@ Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
 - Spring Session integration
 
 ## Running the app
-gradle bootRun
+gradle bootRun OR ./gradlew bootRun
 
 ## Coming up
 - Logging
